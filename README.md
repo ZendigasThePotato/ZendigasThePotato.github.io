@@ -1,2 +1,2 @@
 # ZendigasThePotato.github.io
-Yep
+This is a site, about a game.
